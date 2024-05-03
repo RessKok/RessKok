@@ -1,4 +1,4 @@
-### Hi there 👋
+### Yazılım Dilleri
 
 <!--
 **Yarderun/Yarderun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,cs,rubby)](https://skillicons.dev)
+
+### Çalıştıklarım
+
+[![My Editing](https://skillicons.dev/icons?i=discordjs)](https://skillicons.dev)
