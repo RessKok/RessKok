@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 ### Çalıştıklarım
 
-[![My Editing](https://skillicons.dev/icons?i=discordjs,instagram,youtube,discord,vscode,visualstudio)](https://skillicons.dev)
+[![My Editing](https://skillicons.dev/icons?i=discordjs,instagram,discord,vscode,visualstudio)](https://skillicons.dev)
 
