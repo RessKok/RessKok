@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 ### Çalıştıklarım
 
-[![My Editing](https://skillicons.dev/icons?i=discordjs)](https://skillicons.dev)
+[![My Editing](https://skillicons.dev/icons?i=discordjs,vsc)](https://skillicons.dev)
