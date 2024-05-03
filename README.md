@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,cs,rubby)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,nodejs,html,css,cs,rubby)](https://skillicons.dev)
 
 ### Çalıştıklarım
 
-[![My Editing](https://skillicons.dev/icons?i=discordjs,vscode)](https://skillicons.dev)
+[![My Editing](https://skillicons.dev/icons?i=discordjs,instagram,youtube,discord,vscode,visualstudio)](https://skillicons.dev)
+
